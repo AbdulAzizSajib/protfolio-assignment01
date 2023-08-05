@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@300&family=Poppins&family=Roboto+Condensed:ital,wght@0,400;1,300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f5f5;
+    margin: 10px;
+    padding: 0;
+}
+.half-width{
+    width: 50%;
+    font-size: 20px;
+    text-align: justify;
+    margin: 5% 0 0 5%;
+    
+    /* border: 2PX solid; */
+    
+}
+.half-width img{
+    width: 50%;  
+}
+.flex{
+    display: flex;
+}
+#side-color{
+    border-left:4px solid red;
+    padding-left: 5px;
+    box-sizing: border-box;
+}
+#side-color h1{
+    font-size:30px;
+    margin: 0;
+    padding: 0;
+    
+   
+}
+.Explore{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px ;
+    /*cursor: pointer;
+    transition: background-color 0.3s;*/
+}
+.Explore:hover {
+    background-color: #66ccff;
+    
+}
+/* ..................First Past CSS............................... */
