@@ -10,7 +10,7 @@ body {
     width: 50%;
     font-size: 20px;
     text-align: justify;
-    margin: 5% 0 0 5%;
+    margin: 10%;
     
     /* border: 2PX solid; */
     
@@ -46,4 +46,27 @@ body {
     background-color: #66ccff;
     
 }
+
+
 /* ..................First Past CSS............................... */
+.part-two{
+    border: 2PX solid;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+     
+}
+#mission{
+    background-color: #cae3f0; 
+}
+#vision{
+    background-color:rgb(241, 206, 241);
+}
+#goals{
+    background-color: rgb(238, 213, 182);
+}
+.margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/* ..................2nd Past CSS............................... */
